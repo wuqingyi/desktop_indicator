@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "WorkBuddy"
+            }
+        ],
+        "Category": "Windows and Tasks",
+        "Description": "Virtual desktop indicator: one rounded tile per desktop, showing the icons of all apps open on it",
+        "Icon": "virtual-desktops",
+        "Id": "org.workbuddy.vdeskicons",
+        "License": "MIT",
+        "Name": "Virtual Desktop Indicator",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

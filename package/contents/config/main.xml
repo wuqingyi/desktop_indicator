@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="iconSize" type="Int">
+      <default>22</default>
+    </entry>
+    <entry name="tileHeight" type="Int">
+      <default>36</default>
+    </entry>
+    <entry name="tileMinWidth" type="Int">
+      <default>34</default>
+    </entry>
+    <entry name="tileRadius" type="Int">
+      <default>8</default>
+    </entry>
+    <entry name="tileSpacing" type="Int">
+      <default>4</default>
+    </entry>
+    <entry name="iconSpacing" type="Int">
+      <default>2</default>
+    </entry>
+    <entry name="maxIcons" type="Int">
+      <default>6</default>
+    </entry>
+    <entry name="showNumbers" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="highlightCurrent" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="inactiveOpacity" type="Int">
+      <default>72</default>
+    </entry>
+    <entry name="wheelSwitch" type="Bool">
+      <default>true</default>
+    </entry>
+  </group>
+</kcfg>
